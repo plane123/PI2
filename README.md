@@ -1,4 +1,4 @@
-# Most of these cookbooks I downloaded to my chef workstation. I'm using them for testing and learning on my part.
+# This directory contains the cookbooks used to configure systems in your infrastructure with Chef.
  
 
 
