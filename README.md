@@ -1,4 +1,4 @@
-# This directory contains the cookbooks used to configure systems in your infrastructure with Chef.
+# downloaded most cookbooks from somewhere else. using this repo for my testing and learning.
 
 This directory contains the cookbooks used to configure systems in your infrastructure with Chef.
 
